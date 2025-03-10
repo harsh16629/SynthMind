@@ -98,4 +98,4 @@ Server will run at ```http://localhost:5000```
   ```
 
 ## License
-This project is licensed under the MIT [Lcense](License).
+This project is licensed under the MIT [License](License).
